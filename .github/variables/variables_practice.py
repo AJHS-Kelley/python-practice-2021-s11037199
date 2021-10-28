@@ -2,4 +2,4 @@
 
 # Common Data Types and Variables in Python
 
-life_count = 6 # Interger value, all whole numbers, +/- and 0.s
+life_count = 6 # Interger value, all whole numbers, +/- and 0.
